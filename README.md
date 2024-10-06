@@ -5,6 +5,10 @@ Exosky is a program that allows you to navigate through real space, view the nig
 
 In the program, you can teleport to specific coordinates or choose an exoplanet from a list of available options.
 
+## Information about stars
+
+In the program, you can view information about any star. To do this, press Control to enter cursor movement mode, then click on the star you want to learn more about.
+
 ## Hotkeys
 - F2 - Hide the user interface;
 - F3 - Take a screenshot;
@@ -23,6 +27,10 @@ Exosky - це програма, що дозволяє вам переміщат�
 ## Телепортація
 
 В програмі можна телепортуватись на задані координати або обирати екзопланету зі списку можливих.
+
+## Інфомрація про зорі
+
+В програмі можна переглядати інформацію про будь-яку зорю. Для цього потрібно натиснути Control, перейшовши у режим переміщення курсору та натиснути на зірку, інформацію про яку ви хочете дізнатись.
 
 ## Гарячі клавіші
 - F2 - прибрати користувацький інтерфейс;
