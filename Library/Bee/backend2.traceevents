@@ -1,0 +1,262 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1728295142166383, "dur":23806, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1728295142190202, "dur":129, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1728295142190383, "dur":586, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1728295142190990, "dur":2631, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1728295142193623, "dur":129956, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1728295142323580, "dur":163, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1728295142323746, "dur":121, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1728295142324158, "dur":1249, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1728295142191672, "dur":2016, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1728295142193693, "dur":653, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1728295142194346, "dur":3123, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1728295142197470, "dur":177, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1728295142218028, "dur":1041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":1, "ts":1728295142219106, "dur":2048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1728295142221205, "dur":1608, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1728295142222865, "dur":1770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1728295142224672, "dur":1949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1728295142226698, "dur":3018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1728295142229758, "dur":2447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1728295142232292, "dur":2489, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1728295142234824, "dur":2886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":1, "ts":1728295142240897, "dur":2414, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1728295142237761, "dur":5561, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":1, "ts":1728295142243363, "dur":80205, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1728295142191494, "dur":2145, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1728295142193641, "dur":460, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1728295142194102, "dur":3370, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1728295142197475, "dur":3922, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1728295142201435, "dur":125, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1728295142203122, "dur":2082, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1728295142205230, "dur":172, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1728295142205919, "dur":1179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1728295142207165, "dur":915, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky.exe" }}
+,{ "pid":12345, "tid":2, "ts":1728295142208138, "dur":2457, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":2, "ts":1728295142210666, "dur":1453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":2, "ts":1728295142212180, "dur":1486, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":2, "ts":1728295142213701, "dur":1646, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":2, "ts":1728295142215382, "dur":1247, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1728295142216660, "dur":1460, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":2, "ts":1728295142218151, "dur":1420, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1728295142219613, "dur":2395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1728295142222043, "dur":1702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1728295142223791, "dur":1965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1728295142225801, "dur":2049, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1728295142227889, "dur":3087, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1728295142231015, "dur":2849, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1728295142233911, "dur":4619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1728295142238600, "dur":7268, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":2, "ts":1728295142245901, "dur":77690, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1728295142191489, "dur":2143, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1728295142193635, "dur":3817, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1728295142200060, "dur":106, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1728295142201681, "dur":558, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":3, "ts":1728295142202245, "dur":111, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1728295142202365, "dur":5188, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":3, "ts":1728295142207555, "dur":57, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":3, "ts":1728295142207806, "dur":86, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\olegc\\exosky\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":3, "ts":1728295142207892, "dur":138, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\olegc\\exosky\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":3, "ts":1728295142208031, "dur":231, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\olegc\\exosky\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":3, "ts":1728295142208263, "dur":317, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\olegc\\exosky\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":3, "ts":1728295142208581, "dur":678, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\olegc\\exosky\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":3, "ts":1728295142209263, "dur":129, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\olegc\\exosky\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":3, "ts":1728295142209393, "dur":478, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\olegc\\exosky\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":3, "ts":1728295142209963, "dur":181, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\Player255e0467-inputdata.json" }}
+,{ "pid":12345, "tid":3, "ts":1728295142202243, "dur":8143, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1728295142210896, "dur":129, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1728295142211469, "dur":109147, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1728295142322773, "dur":76, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1728295142322772, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/boot.config" }}
+,{ "pid":12345, "tid":3, "ts":1728295142322864, "dur":652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/boot.config" }}
+,{ "pid":12345, "tid":4, "ts":1728295142191549, "dur":2093, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1728295142193645, "dur":519, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1728295142194165, "dur":3319, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1728295142197484, "dur":2397, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1728295142247671, "dur":6606, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1728295142254317, "dur":69283, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1728295142191666, "dur":2011, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1728295142193682, "dur":574, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1728295142194257, "dur":3222, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1728295142197479, "dur":174, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1728295142218418, "dur":846, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":5, "ts":1728295142219297, "dur":2246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1728295142221582, "dur":1770, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1728295142223389, "dur":2164, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1728295142225598, "dur":2123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1728295142227790, "dur":2874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1728295142230707, "dur":2314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1728295142233100, "dur":4847, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1728295142238023, "dur":8118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/resources.assets" }}
+,{ "pid":12345, "tid":5, "ts":1728295142246210, "dur":77383, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1728295142191608, "dur":2038, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1728295142193651, "dur":616, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1728295142194268, "dur":3192, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1728295142197483, "dur":124, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1728295142197467, "dur":142, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1728295142207878, "dur":4025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1728295142211957, "dur":1714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":6, "ts":1728295142213705, "dur":2337, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":6, "ts":1728295142216177, "dur":1111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":6, "ts":1728295142217335, "dur":1111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":6, "ts":1728295142218496, "dur":1308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1728295142219859, "dur":2477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1728295142222372, "dur":1910, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1728295142224316, "dur":2041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1728295142226393, "dur":2307, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1728295142228737, "dur":3084, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1728295142231855, "dur":2647, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1728295142234538, "dur":121, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1728295142234536, "dur":124, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1728295142234687, "dur":30578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":6, "ts":1728295142265297, "dur":58273, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1728295142191650, "dur":2009, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1728295142193663, "dur":545, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1728295142194209, "dur":3268, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1728295142197495, "dur":3886, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\web.config" }}
+,{ "pid":12345, "tid":7, "ts":1728295142197484, "dur":3904, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1728295142203085, "dur":2046, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":7, "ts":1728295142205168, "dur":258, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1728295142205165, "dur":262, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1728295142205982, "dur":1111, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1728295142207127, "dur":83, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1728295142207125, "dur":86, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1728295142207278, "dur":7792, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":7, "ts":1728295142215107, "dur":1407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":7, "ts":1728295142216598, "dur":1483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":7, "ts":1728295142218127, "dur":1367, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1728295142219527, "dur":2230, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1728295142221785, "dur":1712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1728295142223531, "dur":2208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1728295142225775, "dur":2258, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1728295142228088, "dur":3171, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1728295142231297, "dur":3465, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1728295142234819, "dur":2173, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1728295142237077, "dur":991, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1728295142238132, "dur":8813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/level0" }}
+,{ "pid":12345, "tid":7, "ts":1728295142246996, "dur":76600, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1728295142191714, "dur":1983, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1728295142193700, "dur":490, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1728295142194190, "dur":3276, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1728295142197497, "dur":3902, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\web.config" }}
+,{ "pid":12345, "tid":8, "ts":1728295142197477, "dur":3927, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1728295142201444, "dur":153, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1728295142203132, "dur":1985, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":8, "ts":1728295142205143, "dur":266, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1728295142205999, "dur":1403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":8, "ts":1728295142207667, "dur":2936, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":8, "ts":1728295142210651, "dur":1422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":8, "ts":1728295142212140, "dur":1395, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":8, "ts":1728295142213569, "dur":1330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":8, "ts":1728295142214934, "dur":1349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":8, "ts":1728295142216323, "dur":1430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":8, "ts":1728295142217790, "dur":1409, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":8, "ts":1728295142219236, "dur":2263, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1728295142221554, "dur":1686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1728295142223278, "dur":2090, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1728295142225405, "dur":2371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1728295142227817, "dur":3199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1728295142233245, "dur":60, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1728295142231069, "dur":2246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1728295142233377, "dur":5437, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1728295142242457, "dur":958, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1728295142238865, "dur":4558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1728295142243446, "dur":80143, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1728295142191754, "dur":1956, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1728295142193715, "dur":163, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1728295142193878, "dur":3593, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1728295142197488, "dur":2436, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.5\\machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1728295142197472, "dur":2459, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1728295142256856, "dur":2180, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":9, "ts":1728295142259175, "dur":64402, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1728295142191784, "dur":1937, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1728295142193722, "dur":3736, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1728295142197477, "dur":2556, "ph":"X", "name": "OutputFilesMissingFor",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1728295142200036, "dur":56, "ph":"X", "name": "EmitNodeUpToDate",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":10, "ts":1728295142200129, "dur":89, "ph":"X", "name": "EmitNodeStart",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1728295142202059, "dur":3076, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/app.info" }}
+,{ "pid":12345, "tid":10, "ts":1728295142205141, "dur":292, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\2.0\\web.config" }}
+,{ "pid":12345, "tid":10, "ts":1728295142205139, "dur":295, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1728295142206019, "dur":1323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1728295142207366, "dur":92, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":10, "ts":1728295142207651, "dur":4195, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":10, "ts":1728295142211910, "dur":1391, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":10, "ts":1728295142213347, "dur":1135, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":10, "ts":1728295142214547, "dur":1308, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":10, "ts":1728295142215909, "dur":1058, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":10, "ts":1728295142217004, "dur":1593, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1728295142218636, "dur":1477, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1728295142220151, "dur":2216, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1728295142222401, "dur":2402, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1728295142224836, "dur":1864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1728295142226738, "dur":2677, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1728295142229450, "dur":2163, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1728295142231661, "dur":2422, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1728295142234122, "dur":11854, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1728295142246016, "dur":77573, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1728295142191846, "dur":1887, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1728295142193733, "dur":3765, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1728295142197499, "dur":459, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1728295142225826, "dur":1256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1728295142227121, "dur":3151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1728295142230312, "dur":2341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1728295142232690, "dur":15728, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1728295142248455, "dur":75140, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1728295142191883, "dur":1862, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1728295142193746, "dur":3735, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1728295142197498, "dur":1946, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\4.0\\machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1728295142197482, "dur":1968, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1728295142235456, "dur":3832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1728295142239343, "dur":84223, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1728295142191913, "dur":1840, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1728295142193753, "dur":3710, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1728295142197468, "dur":1421, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":13, "ts":1728295142233641, "dur":1634, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":13, "ts":1728295142235336, "dur":8027, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":13, "ts":1728295142243387, "dur":80185, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1728295142191948, "dur":1811, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1728295142193759, "dur":3716, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1728295142197478, "dur":622, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":14, "ts":1728295142226375, "dur":1044, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":14, "ts":1728295142227453, "dur":2959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1728295142230448, "dur":2179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1728295142232666, "dur":4509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1728295142240722, "dur":2573, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1728295142237257, "dur":6059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":14, "ts":1728295142243364, "dur":80209, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1728295142191978, "dur":1788, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1728295142193767, "dur":3694, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1728295142197486, "dur":163, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\etc\\mono\\mconfig\\config.xml" }}
+,{ "pid":12345, "tid":15, "ts":1728295142197467, "dur":186, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":15, "ts":1728295142225461, "dur":1242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":15, "ts":1728295142226761, "dur":2981, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1728295142229784, "dur":4570, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1728295142234391, "dur":12240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1728295142246698, "dur":76900, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1728295142192012, "dur":1761, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1728295142193774, "dur":3690, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1728295142197468, "dur":153, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":16, "ts":1728295142202830, "dur":2458, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":16, "ts":1728295142205310, "dur":107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":16, "ts":1728295142206105, "dur":795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":16, "ts":1728295142206922, "dur":61, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Program Files\\Unity\\Hub\\Editor\\2022.3.49f1\\Editor\\Data\\PlaybackEngines\\WindowsStandaloneSupport\\Variations\\win64_player_nondevelopment_mono\\MonoBleedingEdge\\EmbedRuntime\\MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":16, "ts":1728295142206920, "dur":64, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":16, "ts":1728295142207195, "dur":1673, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":16, "ts":1728295142208937, "dur":2913, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1728295142211909, "dur":1342, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":16, "ts":1728295142213315, "dur":1219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":16, "ts":1728295142214592, "dur":1618, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":16, "ts":1728295142216255, "dur":1318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":16, "ts":1728295142217643, "dur":1289, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":16, "ts":1728295142218974, "dur":2118, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1728295142221123, "dur":1697, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1728295142222856, "dur":2007, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1728295142224922, "dur":2123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1728295142227085, "dur":2963, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1728295142230076, "dur":2716, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1728295142232831, "dur":6016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1728295142242372, "dur":1003, "ph":"X", "name": "EmitNodeFinish",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1728295142238885, "dur":4497, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/olegc/OneDrive/Documents/Exosky v1.1/exosky_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":16, "ts":1728295142243404, "dur":80188, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1728295142327636, "dur":653, "ph":"X", "name": "ProfilerWriteOutput" }
+,

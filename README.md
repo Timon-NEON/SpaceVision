@@ -1,5 +1,9 @@
-# Exosky
-Exosky is a program that allows you to navigate through real space, view the night sky from different perspectives, and explore stars and exoplanets.
+# SpaceVision
+SpaceVision is a program that allows you to navigate through real space, view the night sky from different perspectives, and explore stars and exoplanets.
+
+## Info
+Watch app preview: [YouTube](https://youtu.be/RKg8vzuv9sM)  
+Download SpaceVision app: [Google Drive](https://drive.google.com/drive/u/0/folders/1rEcbkc7HDfUvBOEUGZl-vawVrq4-lkDG)
 
 ## Teleportation
 
@@ -21,8 +25,12 @@ Movement to the right/left and forward/backward is controlled using the WASD sys
 The project was developed for the NASA Space Apps Challenge by the "Theorem of Victory" team.
 
 
-# Exosky
-Exosky - це програма, що дозволяє вам переміщатись по реальному космосу, дивитись на зоряне небо з різних боків, вивчати зорі та екзопланети.
+# SpaceVision
+SpaceVision - це програма, що дозволяє вам переміщатись по реальному космосу, дивитись на зоряне небо з різних боків, вивчати зорі та екзопланети.
+
+## Інформація
+Дивитись попередній перегляд застосунка: [YouTube](https://youtu.be/RKg8vzuv9sM)  
+Завантажити застосунок SpaceVision: [Google Drive](https://drive.google.com/drive/u/0/folders/1rEcbkc7HDfUvBOEUGZl-vawVrq4-lkDG)
 
 ## Телепортація
 
