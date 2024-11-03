@@ -22,6 +22,9 @@ In the program, you can view information about any star. To do this, press Contr
 
 Movement to the right/left and forward/backward is controlled using the WASD system.
 
+## Contact us
+[Team leader](https://t.me/Timon_NEON)
+
 The project was developed for the NASA Space Apps Challenge by the "Theorem of Victory" team.
 
 
@@ -48,5 +51,8 @@ SpaceVision - це програма, що дозволяє вам переміщ
 - Left Shift - переміщуватись вниз;
 
 Переміщення вправо/вліво та вперед/назад реалізовано за допомогою системи WASD.
+
+## Зв'яжіться з нами
+[Тімлідер](https://t.me/Timon_NEON)
 
 Проект було створено для NASA Space Apps Challenge командою Theorem of Victory.
